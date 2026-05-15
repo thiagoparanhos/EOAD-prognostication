@@ -1,7 +1,5 @@
 # EOAD Prognostication — Statistical Analysis Code
 
-This repository contains# EOAD Prognostic Model — Statistical Analysis Code
-
 This repository contains the R code used for the statistical analyses reported in:
 
 > **EOAD-Signature Atrophy Predicts Dementia In Early-Onset MCI Due To Alzheimer's: An MRI-based prognostic biomarker**  
