@@ -33,7 +33,7 @@ install.packages(c("survival", "rms", "survminer", "broom", "dplyr", "ggplot2", 
 
 Data used in this study are part of the LEADS (Longitudinal Early-Onset Alzheimer's Disease Study) cohort. Requests for data access should be directed to https://ncrad.org/access-samples/available-samples/leads.
 
-The dataset should include the following variables:
+The following variables were included in the analysis:
 
 | Variable | Description |
 |----------|-------------|
